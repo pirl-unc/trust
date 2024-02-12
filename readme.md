@@ -1,3 +1,5 @@
+* This repository was initially hosted at github.com/Benjamin-Vincent-Lab/trust , moved on 2/12/2024
+
 This docker image sets up the environment to run TRUST version 3.0.1  
   
 This needs to be run on bam files.  Theyu previously recommended Bowtie2 or MapSlice to run the bams so I would suggest making your bams with those to avoid having to optomize parameters for STAR.  
